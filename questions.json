@@ -1,0 +1,32 @@
+[
+    {
+        "question": "In which K-drama did a character ask the question \"Do you like Messi?\" to get the attention from a guy she likes?",
+        "answer": ["Romance is a Bonus Book", "Tomorrow", "Strong Girl Nam-soon", "Weightlifting Fairy Kim Bok-joo"],
+        "correctAnswer": "Weightlifting Fairy Kim Bok-joo",
+        "comment": "The character asks her crush if he likes the footballer Lionel Messi, thinking that all men like football/sports and she can snatch his interest."
+    },
+    {
+        "question": "In 'Crash Landing on You', what is the \"urgent\" reason Se-ri calls Jung-hyuk while he's at work?",
+        "answer": ["She needs scented candles", "She needs body wash", "How to get hot water", "There's no food anywhere"],
+        "correctAnswer": "She needs body wash",
+        "comment": ""
+    },
+    {
+        "question": "Name the K-drama: At the center of the story are Baek Yi-jin, a sports reporter, and Na Hee-do, a fencing athlete, who fall in love three years after they first meet at the ages of 22 and 18.",
+        "answer": ["Hometown Cha-Cha-Cha", "Crash Course in Romance", "Twenty-Five Twenty-One", "Strong Girl Bong-soon"],
+        "correctAnswer": "Twenty-Five Twenty-One",
+        "comment": ""
+    },
+    {
+        "question": "In 'Squid Game', what game does the man at the train station ask Seong Gi-hun to play for money?",
+        "answer": ["Marbles", "Ddakji", "Chess", "Tiaoqi"],
+        "correctAnswer": "Ddakji",
+        "comment": "Ddakji (Korean: 딱지) is a traditional Korean game played by two or more players. Ddakji is constructed by folding two square pieces of paper together into a square, and the game is won by flipping the other player's card."
+    },
+    {
+        "question": "In which K-drama are Samantha and Rachel introduced to scare off a blind date?",
+        "answer": ["Business Proposal", "What's Wrong with Secretary Kim ", "Big Mouth", "Thirty but Seventeen"],
+        "correctAnswer": "Business Proposal",
+        "comment": "\"The one on the left is Samantha and the one on the right is Rachel.\""
+    }
+]
